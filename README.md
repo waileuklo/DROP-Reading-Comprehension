@@ -13,7 +13,7 @@ data_loader/SQuAD.py: DROP data loader.
 
 Other codes are utils or neural network common modules library.
 
-## Acknowledge
+## Acknowledgement
 
 The QANet structure implementation is mainly based on https://github.com/BangLiu/QANet-PyTorch, https://github.com/hengruo/QANet-pytorch, https://github.com/andy840314/QANet-pytorch- and https://github.com/hackiey/QAnet-pytorch.
 
